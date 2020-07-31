@@ -1,4 +1,4 @@
-Code for : Razmi & Nassar (2020). "Adaptive learning through temporal dynamics of state representation."
+Code for : Razmi & Nassar (2020). "Adaptive Learning Through Temporal Dynamics Of State Representation."
 
 All scripts are written in Matlab and were run by Matlab R2018a.
 
